@@ -1,0 +1,6 @@
+[submodule "be"]
+	path = be
+	url = git@github.com:arpitkarnatak/social-media-app-backend.git
+[submodule "fe"]
+	path = fe
+	url = git@github.com:arpitkarnatak/social-media-app-frontend.git
